@@ -15,7 +15,3 @@ Evolutionary based agent playing classic CartPole
 
 ![pong](https://github.com/spiec/reinforcement/blob/master/experiments/cartpole/output/cart_evo.gif)
 
-# Usage
-python train.py > logs/train.log
-
-python play.py --agent=output/jetdqn_v0.pt
